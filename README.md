@@ -11,9 +11,6 @@ Feel free to explore the code and suggest improvements — I'm currently learnin
 - Custom CSS styling
 - Clean and readable code
 
-## Preview
-![Preview](img/produtos-padaria.jpg)
-
 ## Technologies
 - HTML5
 - CSS3
